@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'Spring'
+  s.name = 'Spring-Swift5'
   s.version = '1.0.6'
   s.license = 'MIT'
   s.summary = 'A library to simplify iOS animations in Swift.'
